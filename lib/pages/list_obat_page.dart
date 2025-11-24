@@ -12,21 +12,25 @@ class _ListObatPageState extends State<ListObatPage> {
   final List<Map<String, dynamic>> dummyobat = [
     {
       'id': 1,
+      'gambar': 'assets/images/paracetamol.png',
       'name': 'Paracetamol 500mg',
       'price': 5000,
     },
     {
       'id': 2,
+      'gambar': 'assets/images/amoxicillin.png',
       'name': 'Amoxicillin',
       'price': 12000,
     },
     {
       'id': 3,
+      'gambar': 'assets/images/vitamin_c.png',
       'name': 'Vitamin C 1000mg',
       'price': 2500,
     },
     {
       'id': 4,
+      'gambar': 'assets/images/cough_syrup.png',
       'name': 'Obat Batuk Sirup',
       'price': 15000,
     },
